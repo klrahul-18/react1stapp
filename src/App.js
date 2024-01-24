@@ -21,7 +21,7 @@ function App() {
           <Route path='/Blog' element={<h1>Blog Page</h1>} />
           <Route path='/Github' element={<h1>Github Page</h1>} />
           <Route path='/Git' element={<h1>Git Page</h1>} />
-          <Route path='Register' element={<h1>Register Page</h1>} />
+          <Route path='Register' element={<h1>Registration Page</h1>} />
         </Routes>
       </div>
       <footer/>
